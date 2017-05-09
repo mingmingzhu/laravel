@@ -1,5 +1,9 @@
 <?php
 
 
-echo 'a';
+
+echo closelog(555);
+exit;
+
+
 ?>
